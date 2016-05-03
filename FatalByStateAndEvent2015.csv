@@ -1,0 +1,174 @@
+"STATE","EVENT_TYPE","DEATCH_COUNT"
+"ALABAMA","Flash Flood",4
+"ALABAMA","Flood",28
+"ALABAMA","Lightning",6
+"ALABAMA","Rip Current",4
+"ALABAMA","Thunderstorm Wind",5
+"ALASKA","Avalanche",1
+"ALASKA","Cold/Wind Chill",4
+"ALASKA","Debris Flow",9
+"ALASKA","Flash Flood",63
+"ALASKA","Heavy Rain",1
+"AMERICAN SAMOA","Rip Current",1
+"ARIZONA","Cold/Wind Chill",1
+"ARIZONA","Flash Flood",9
+"ARIZONA","Heat",4
+"ARIZONA","Lightning",3
+"ARKANSAS","Excessive Heat",2
+"ARKANSAS","Flash Flood",4
+"ARKANSAS","Flood",8
+"ARKANSAS","Lightning",1
+"ARKANSAS","Strong Wind",1
+"ARKANSAS","Thunderstorm Wind",1
+"ARKANSAS","Tornado",8
+"ATLANTIC NORTH","Marine Strong Wind",8
+"ATLANTIC SOUTH","Marine Thunderstorm Wind",5
+"CALIFORNIA","Avalanche",1
+"CALIFORNIA","Flash Flood",4
+"CALIFORNIA","High Surf",1
+"CALIFORNIA","Lightning",1
+"CALIFORNIA","Sneakerwave",1
+"CALIFORNIA","Wildfire",21
+"COLORADO","Avalanche",2
+"COLORADO","Lightning",1
+"CONNECTICUT","Thunderstorm Wind",1
+"CONNECTICUT","Winter Weather",1
+"E PACIFIC","Marine Strong Wind",4
+"FLORIDA","Heavy Rain",1
+"FLORIDA","High Surf",2
+"FLORIDA","Lightning",5
+"FLORIDA","Rip Current",17
+"FLORIDA","Thunderstorm Wind",3
+"GEORGIA","Excessive Heat",1
+"GEORGIA","Rip Current",9
+"GEORGIA","Thunderstorm Wind",1
+"GUAM","High Surf",1
+"GUAM","Hurricane",17
+"GUAM","Rip Current",8
+"GUAM","Tropical Storm",81
+"GULF OF MEXICO","Marine Thunderstorm Wind",72
+"HAWAII","Flash Flood",1
+"HAWAII","High Surf",4
+"HAWAII WATERS","Marine High Wind",2
+"IDAHO","Thunderstorm Wind",16
+"IDAHO","Winter Storm",1
+"IDAHO","Winter Weather",2
+"ILLINOIS","Cold/Wind Chill",22
+"ILLINOIS","Flash Flood",7
+"ILLINOIS","Flood",144
+"ILLINOIS","Heat",1
+"ILLINOIS","Thunderstorm Wind",2
+"ILLINOIS","Tornado",8
+"INDIANA","Cold/Wind Chill",1
+"INDIANA","Flash Flood",4
+"INDIANA","Flood",12
+"INDIANA","Strong Wind",1
+"INDIANA","Thunderstorm Wind",1
+"INDIANA","Winter Weather",1
+"IOWA","Blizzard",1
+"IOWA","Lightning",2
+"IOWA","Winter Storm",1
+"KANSAS","Flash Flood",4
+"KANSAS","Heat",1
+"KANSAS","Thunderstorm Wind",1
+"KENTUCKY","Cold/Wind Chill",6
+"KENTUCKY","Extreme Cold/Wind Chill",2
+"KENTUCKY","Flash Flood",77
+"KENTUCKY","Flood",12
+"KENTUCKY","Thunderstorm Wind",1
+"KENTUCKY","Winter Storm",2
+"KENTUCKY","Winter Weather",1
+"LOUISIANA","Flash Flood",8
+"LOUISIANA","Heavy Rain",1
+"LOUISIANA","Thunderstorm Wind",1
+"MARYLAND","Flood",4
+"MARYLAND","Strong Wind",1
+"MARYLAND","Winter Weather",2
+"MINNESOTA","Cold/Wind Chill",1
+"MISSISSIPPI","Flash Flood",6
+"MISSISSIPPI","Thunderstorm Wind",2
+"MISSISSIPPI","Tornado",90
+"MISSOURI","Flash Flood",43
+"MISSOURI","Flood",22
+"MISSOURI","Heat",1
+"MISSOURI","Lightning",2
+"MISSOURI","Thunderstorm Wind",1
+"MONTANA","Avalanche",1
+"NEBRASKA","Flood",5
+"NEBRASKA","Thunderstorm Wind",1
+"NEVADA","Excessive Heat",5
+"NEVADA","Heat",169
+"NEW HAMPSHIRE","Thunderstorm Wind",8
+"NEW JERSEY","Cold/Wind Chill",3
+"NEW JERSEY","Flash Flood",4
+"NEW JERSEY","Rip Current",1
+"NEW JERSEY","Strong Wind",1
+"NEW MEXICO","Flash Flood",22
+"NEW MEXICO","Lightning",2
+"NEW MEXICO","Strong Wind",9
+"NEW YORK","Flash Flood",6
+"NEW YORK","Rip Current",3
+"NEW YORK","Winter Storm",1
+"NORTH CAROLINA","Lightning",2
+"NORTH CAROLINA","Rip Current",1
+"NORTH CAROLINA","Thunderstorm Wind",1
+"NORTH CAROLINA","Winter Weather",1
+"OHIO","Flash Flood",54
+"OHIO","Flood",12
+"OHIO","Winter Weather",1
+"OKLAHOMA","Flash Flood",41
+"OKLAHOMA","Flood",40
+"OKLAHOMA","Tornado",4
+"OREGON","Dust Storm",1
+"OREGON","Flood",4
+"OREGON","Heat",1
+"OREGON","Heavy Rain",2
+"OREGON","Rip Current",1
+"OREGON","Strong Wind",1
+"PENNSYLVANIA","Cold/Wind Chill",10
+"PENNSYLVANIA","Excessive Heat",4
+"PENNSYLVANIA","Heat",2
+"PENNSYLVANIA","Strong Wind",1
+"PENNSYLVANIA","Thunderstorm Wind",2
+"PUERTO RICO","High Surf",1
+"PUERTO RICO","Rip Current",7
+"SOUTH CAROLINA","Flash Flood",32
+"SOUTH CAROLINA","Flood",4
+"SOUTH CAROLINA","Rip Current",5
+"SOUTH CAROLINA","Strong Wind",1
+"SOUTH DAKOTA","Cold/Wind Chill",1
+"SOUTH DAKOTA","Lightning",1
+"SOUTH DAKOTA","Thunderstorm Wind",1
+"TENNESSEE","Cold/Wind Chill",17
+"TENNESSEE","Excessive Heat",4
+"TENNESSEE","Flash Flood",53
+"TENNESSEE","Tornado",8
+"TENNESSEE","Winter Weather",1
+"TEXAS","Blizzard",4
+"TEXAS","Cold/Wind Chill",4
+"TEXAS","Excessive Heat",2
+"TEXAS","Flash Flood",1000
+"TEXAS","Flood",44
+"TEXAS","Heat",3
+"TEXAS","Heavy Rain",3
+"TEXAS","Lightning",1
+"TEXAS","Rip Current",5
+"TEXAS","Thunderstorm Wind",3
+"TEXAS","Tornado",182
+"TEXAS","Winter Weather",4
+"UTAH","Avalanche",1
+"UTAH","Flash Flood",872
+"UTAH","High Wind",1
+"UTAH","Lightning",1
+"UTAH","Thunderstorm Wind",1
+"VIRGINIA","Flood",13
+"WASHINGTON","Cold/Wind Chill",1
+"WASHINGTON","Dust Storm",1
+"WASHINGTON","High Wind",8
+"WASHINGTON","Strong Wind",4
+"WEST VIRGINIA","Debris Flow",4
+"WEST VIRGINIA","Flash Flood",7
+"WEST VIRGINIA","Heavy Rain",1
+"WEST VIRGINIA","Lightning",1
+"WISCONSIN","Cold/Wind Chill",3
+"WYOMING","Avalanche",4
